@@ -1,18 +1,4 @@
 .personal {
-  padding-top: 94px;
-  padding-bottom: 94px;
-  background-color: $personal-bg-color;
-}
-
-/*
-.personal ul {
-  line-height: 1.19;
-  text-align: center;
-  letter-spacing: 0.03em;
-}
-*/
-
-.personal__list {
   display: flex;
 
   line-height: 1.19;
@@ -44,6 +30,5 @@
 }
 
 .personal__position {
-  font-size: 16px;
   color: $alternate-text-color;
 }

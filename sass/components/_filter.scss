@@ -1,4 +1,4 @@
-.filter__list {
+.filter {
   display: flex;
   justify-content: center;
   margin-bottom: 50px;
@@ -20,7 +20,7 @@
   line-height: 1.62;
   text-align: center;
   letter-spacing: 0.03em;
-  background-color: F5F4FA;
+  background-color: $personal-bg-color;
   color: $main-text-color;
 
   transition: background-color 250ms $cubic-bezier, color 250ms $cubic-bezier,
